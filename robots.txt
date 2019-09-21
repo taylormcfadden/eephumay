@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iebahpheez.andre-sieverding.de/sitemap.xml
